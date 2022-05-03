@@ -2,3 +2,5 @@ Este es un archivo de texto plano.
 
 
 Miguel está probando git.
+
+Estoy agregando más código.
